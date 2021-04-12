@@ -1,0 +1,11 @@
+# Libraries/Packages
+
+The list below are libraries/packages I've found to be useful. A brief description is included for most.
+
+* tidyverse: 
+* ggplot2:
+* stringr:
+* processx:
+* bookdown:
+* orca:
+* glue: 
